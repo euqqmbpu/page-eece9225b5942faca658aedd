@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-60afa59d9b.shicdba.cn/sitemap.xml
